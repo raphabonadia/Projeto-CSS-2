@@ -6,3 +6,6 @@
 <h2>Neste projeto foram usadas as sequintes tecnologias:</h2>
 <h2>-HTML</h2>
 <h2>-CSS</h2>
+<br>
+<br>
+<img src="https://github.com/raphabonadia/We-Care/blob/master/assets/desktop.png?raw=true">
